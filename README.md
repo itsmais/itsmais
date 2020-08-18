@@ -1,9 +1,9 @@
 ### Hi 👋 I'm Mais!
 
 - 🌱 I’m an Arabic/English bilingual junior developer.
-- 🔭 I’m constanly working on front-end pet projects ([https://github.com/itsmais/7Days7Websites/](see link)).
+- 🔭 I’m constanly working on front-end pet projects [see link](https://github.com/itsmais/7Days7Websites/).
 - 📫 Ways to reach me: DM's are welcome @itsmais, or drop me an email at mais-hatem@hotmail.com.
-- 🔍 Looking for a job.
+- 🔍 Looking for a job. [Click to see portfolio](http://itsmais.github.io/).
 - 📍 In Beirut, willing to relocate.
 
 <!--
