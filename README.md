@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Mais!
 
 - 🌱 I’m an Arabic/English bilingual junior developer.
-- 🔭 Now working on front-end pet projects [(see link)](https://github.com/itsmais/7Days7Websites/).
+- 🔭 Now working on front-end pet projects ([see link])(https://github.com/itsmais/7Days7Websites/).
 - 📚 Computer Science undergrad (Fall ’21 ie Dec 2020) at The American University of Beirut.
 - 🔍 Looking for a job. [Click to see portfolio](http://itsmais.github.io/).
 - 📍 In Beirut, willing to relocate.
