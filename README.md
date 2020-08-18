@@ -1,8 +1,10 @@
-### Hi 👋 I'm Mais, a junior developer.
+### Hi 👋 I'm Mais!
 
-- 🔭 I’m currently working on front-end pet projects.
-- 📫 How to reach me: DM's are welcome @itsmais, or drop me an email at mais-hatem@hotmail.com.
-- 😄 Pronouns: she/her.
+- 🌱 I’m an Arabic/English bilingual junior developer.
+- 🔭 I’m constanly working on front-end pet project (see pinned).
+- 📫 Ways to reach me: DM's are welcome @itsmais, or drop me an email at mais-hatem@hotmail.com.
+- 🔍 Looking for a job.
+- 📍 In Beirut, willing to relocate.
 
 <!--
 **itsmais/itsmais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
