@@ -1,8 +1,8 @@
 ### Hi! I'm Mais 👋
 - :woman_technologist: junior developer; currently learning react.
-- :camera: amateur [photographer](https://500px.com/maishatem) by night. 
 - :keyboard: completed the [#7days7websites](https://itsmais.github.io/7Days7Websites/) challenge. projects inculded a COVID-19 dashboard and a word cloud generator.
 - 📚 Computer Science undergrad (dec 2020) at The American University of Beirut.
+- :camera: amateur [photographer](https://500px.com/maishatem) by night. 
 - 🔍 looking for a job; [see portfolio](https://itsmais.github.io/).
 - 📍 in Beirut; willing to relocate.
 - 📫 ways to reach me: DM's are welcome [@mais_hatem](https://twitter.com/mais_hatem), or drop me an email at mais-hatem@hotmail.com.
