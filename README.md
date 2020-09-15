@@ -3,6 +3,7 @@
 - 🔭 completed the [#7days7websites challenge](https://itsmais.github.io/7Days7Websites/). projects inculded a COVID-19 dashboard and a word cloud generator.
 - 📚 Computer Science undergrad (dec 2020) at The American University of Beirut.
 - :woman_technologist: currently learning react.
+- :camera: amateur photographer by night. [here's](https://500px.com/maishatem) my work.
 - 🔍 looking for a job; [see portfolio](https://itsmais.github.io/).
 - 📍 in Beirut; willing to relocate.
 - 📫 ways to reach me: DM's are welcome [@mais_hatem](https://twitter.com/mais_hatem), or drop me an email at mais-hatem@hotmail.com.
