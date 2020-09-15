@@ -1,6 +1,6 @@
 ### Hi! I'm Mais 👋
 - 🌱 I’m an junior developer.
-- 🔭 completed the #7days7websites challenge using vanilla javascript; [see link](https://itsmais.github.io/7Days7Websites/). projects inculded a COVID-19 dashboard and a word cloud generator.
+- 🔭 completed the #7days7websites challenge; [see link](https://itsmais.github.io/7Days7Websites/). projects inculded a COVID-19 dashboard and a word cloud generator.
 - 📚 Computer Science undergrad (dec 2020) at The American University of Beirut.
 - :woman_technologist: currently learning react.
 - 🔍 looking for a job; [see portfolio](https://itsmais.github.io/).
