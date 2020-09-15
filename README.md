@@ -1,6 +1,6 @@
 ### Hi! I'm Mais 👋
 - :woman_technologist: junior developer; currently learning react.
-- :keyboard: completed the [#7days7websites](https://itsmais.github.io/7Days7Websites/) challenge. projects inculded a COVID-19 dashboard and a word cloud generator.
+- :keyboard: completed the [#7days7websites](https://itsmais.github.io/7Days7Websites/) challenge. projects inculded a COVID-19 dashboard and a reddit wordcloud generator.
 - 📚 Computer Science undergrad (dec 2020) at The American University of Beirut.
 - :camera: amateur [photographer](https://500px.com/maishatem) by night. 
 - 🔍 looking for a job; [see portfolio](https://itsmais.github.io/).
