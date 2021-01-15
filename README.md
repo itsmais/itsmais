@@ -1,5 +1,5 @@
 ### Hello! It's Mais 👋
-:woman_technologist: junior developer; currently learning react. <br>
+:woman_technologist: software developer. <br>
 :keyboard: pet projects include a [COVID-19 dashboard](https://itsmais.github.io/arab-covid-19-stats/), a [US 2020 polls results map](https://itsmais.github.io/us-presidential-elections-map/), and a [Reddit word-cloud generator](https://www.anychart.com/blog/2020/11/25/reddit-data-word-cloud-visualization/). <br>
 📚 Computer Science '20 from The American University of Beirut. <br>
 :camera: amateur [photographer](https://500px.com/maishatem) by night.  <br>
