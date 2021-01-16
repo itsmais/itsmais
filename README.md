@@ -1,11 +1,11 @@
 ### Hello! It's Mais 👋
 :woman_technologist: Software developer. <br>
-:keyboard: pet projects include a [COVID-19 dashboard](https://itsmais.github.io/arab-covid-19-stats/), a [US 2020 polls results map](https://itsmais.github.io/us-presidential-elections-map/), and a [Reddit word-cloud generator](https://www.anychart.com/blog/2020/11/25/reddit-data-word-cloud-visualization/). <br>
+:keyboard: My pet projects include a [COVID-19 dashboard](https://itsmais.github.io/arab-covid-19-stats/), a [US 2020 polls results map](https://itsmais.github.io/us-presidential-elections-map/), and a [Reddit word-cloud generator](https://www.anychart.com/blog/2020/11/25/reddit-data-word-cloud-visualization/). <br>
 📚 Bachelor of Computer Science '20 from The American University of Beirut. <br>
 :camera: amateur [photographer](https://500px.com/maishatem) by night.  <br>
-🔍 looking for a job; [see résumé](https://itsmais.github.io/resume.html). <br>
-📍 in Beirut, Lebanon; willing to relocate. <br>
-📫 ways to reach me: twitter DM's are welcome [@mais_hatem](https://twitter.com/mais_hatem) or drop me an email at mais-hatem@hotmail.com.  <br>
+🔍 Looking for a job; [see my résumé](https://itsmais.github.io/resume.html). <br>
+📍 Currently in Beirut, Lebanon; willing to relocate. <br>
+📫 Ways to reach me: twitter DM's are welcome [@mais_hatem](https://twitter.com/mais_hatem) or drop me an email at mais-hatem@hotmail.com.  <br>
 <!--
 **itsmais/itsmais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
