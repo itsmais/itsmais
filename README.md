@@ -3,7 +3,7 @@
 :keyboard: My pet projects include a [COVID-19 dashboard](https://itsmais.github.io/arab-covid-19-stats/), a [US 2020 polls results map](https://itsmais.github.io/us-presidential-elections-map/), and a [Reddit word-cloud generator](https://www.anychart.com/blog/2020/11/25/reddit-data-word-cloud-visualization/). <br>
 📚 Bachelor of Computer Science '20 from The American University of Beirut. <br>
 :camera: Hobbyist [photographer](https://500px.com/maishatem) by night.  <br>
-🔖 [Online portfolio and résumé](https://itsmais.github.io/). <br>
+🔖 See my [portfolio and résumé](https://itsmais.github.io/). <br>
 📫 Ways to reach me: twitter DM's are welcome [@mais_hatem](https://twitter.com/mais_hatem) or drop me an email at mais-hatem@hotmail.com.  <br>
 📍 Based in Beirut, Lebanon. <br>
 <!--
