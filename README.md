@@ -4,7 +4,7 @@
 📚 Computer Science '20 from The American University of Beirut. <br>
 :camera: Hobbyist [photographer](https://500px.com/maishatem) by night.  <br>
 🔖 See my [portfolio and résumé](https://itsmais.github.io/). <br>
-📫 Ways to reach me: twitter DM's are welcome [@mais_hatem](https://twitter.com/mais_hatem) or drop me an email at mais-hatem@hotmail.com.  <br>
+📫 Ways to reach me: twitter DM's [@mais_hatem](https://twitter.com/mais_hatem) or drop me an email at mais-hatem@hotmail.com.  <br>
 📍 Works remotely; currently in Beirut, Lebanon. <br>
 <!--
 **itsmais/itsmais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
