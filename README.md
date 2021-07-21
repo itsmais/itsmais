@@ -1,4 +1,4 @@
-### hola, hello, こんにちは, 你好, مَرحَبًَا, salut, namaste, Привет! It's Mais! 👋
+### Hola, hello, こんにちは, 你好, مَرحَبًَا, salut, namaste, Привет! It's Mais! 👋
 
 :woman_technologist: I'm a software developer, with main interest in front-end web technologies.
 
