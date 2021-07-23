@@ -8,8 +8,6 @@
   - An Arabic langauge [citation machine](https://arabic-citation-machine.vercel.app/).
   - A [reddit word-cloud generator](https://www.anychart.com/blog/2020/11/25/reddit-data-word-cloud-visualization/).
 
-📚 Computer Science '20 from The American University of Beirut.
-
 :camera: Hobbyist [photographer](https://500px.com/maishatem) by night.
 
 🔖 See my [portfolio and résumé](https://itsmais.github.io/).
