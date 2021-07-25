@@ -2,11 +2,7 @@
 
 :woman_technologist: I'm a software developer, with main interest in front-end web technologies.
 
-:keyboard: My pet projects include:
-  - A [COVID-19 dashboard](https://itsmais.github.io/arab-covid-19-stats/).
-  - A [US 2020 polls results map](https://itsmais.github.io/us-presidential-elections-map/).
-  - An Arabic langauge [citation machine](https://arabic-citation-machine.vercel.app/).
-  - A [reddit word-cloud generator](https://www.anychart.com/blog/2020/11/25/reddit-data-word-cloud-visualization/).
+:keyboard: My pet projects include: A [COVID-19 dashboard](https://itsmais.github.io/arab-covid-19-stats/), a [US 2020 polls results map](https://itsmais.github.io/us-presidential-elections-map/), an Arabic langauge [citation machine](https://arabic-citation-machine.vercel.app/), a [reddit word-cloud generator](https://www.anychart.com/blog/2020/11/25/reddit-data-word-cloud-visualization/).
 
 :camera: Hobbyist [photographer](https://500px.com/maishatem) by night.
 
