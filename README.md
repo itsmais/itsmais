@@ -12,7 +12,7 @@
 
 💬 I speak English, Arabic and a little bit of French. I sadly cannot speak all the languages I saluted you with 😿.
 
-📍 Working remotely; currently in Beirut, Lebanon.
+📍 Works remotely; currently in Beirut, Lebanon.
 
 
 <!--
