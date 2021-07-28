@@ -6,8 +6,6 @@
 
 :camera: Hobbyist [photographer](https://500px.com/maishatem) by night.
 
-🔖 See my [portfolio and résumé](https://itsmais.github.io/).
-
 📫 How to reach me: tweets or DM's at [@mais_hatem](https://twitter.com/mais_hatem).
 
 💬 I speak English, Arabic and a little bit of French. I sadly cannot speak all the languages I saluted you with 😿.
