@@ -10,11 +10,10 @@
 
 💬 I speak English, Arabic and a little bit of French. I sadly cannot speak all the languages I saluted you with 😿.
 
-📍 Works remotely; currently in Beirut, Lebanon.
-
 
 <!--
 **itsmais/itsmais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 Works remotely; currently in Beirut, Lebanon.
 
 Here are some ideas to get you started:
 🧉
