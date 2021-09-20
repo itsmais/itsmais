@@ -8,12 +8,10 @@
 
 📫 How to reach me: tweets or DM's at [@mais_hatem](https://twitter.com/mais_hatem).
 
-💬 I speak English, Arabic and a little bit of French. I sadly cannot speak all the languages I saluted you with 😿.
-
-
 <!--
 **itsmais/itsmais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 📍 Works remotely; currently in Beirut, Lebanon.
+💬 I speak English, Arabic and a little bit of French. I sadly cannot speak all the languages I saluted you with 😿.
 
 Here are some ideas to get you started:
 🧉
