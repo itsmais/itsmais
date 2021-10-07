@@ -6,6 +6,10 @@
 
 :camera: Hobbyist [photographer](https://500px.com/maishatem) by night.
 
+🇫🇷 I’m currently learning French (DUEF).
+
+👩🏼‍🔧 I’m looking to collaborate on a part-time project.
+
 📫 How to reach me: tweets or DM's at [@mais_hatem](https://twitter.com/mais_hatem).
 
 <!--
