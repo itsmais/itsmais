@@ -8,7 +8,7 @@
   - 🗺 [US 2020 polls results map](https://itsmais.github.io/us-presidential-elections-map/).
   - 💾 [Citation machine (en/ar)](https://arabic-citation-machine.vercel.app/).
   - ☁ [Reddit word-cloud generator](https://www.anychart.com/blog/2020/11/25/reddit-data-word-cloud-visualization/).
-  - ⏲ [REM sleep time calculator](https://github.com/itsmais/sleep-calculator).
+  - 🛌 [REM sleep time calculator](https://github.com/itsmais/sleep-calculator).
   - 🧦 [Retro clothes picker according to local weather](https://github.com/itsmais/what-shall-i-wear).
 
 :camera: When I'm not on my computer, I try to keep a visual diary and later publish on [500px](https://500px.com/maishatem).
