@@ -2,9 +2,16 @@
 
 :woman_technologist: I'm a software developer, with main interest in front-end web technologies.
 
-:keyboard: My pet projects include: a [time tracker desktop app](https://time-it.co), a [COVID-19 dashboard](https://itsmais.github.io/arab-covid-19-stats/), a [US 2020 polls results map](https://itsmais.github.io/us-presidential-elections-map/), an Arabic langauge [citation machine](https://arabic-citation-machine.vercel.app/), and a [reddit word-cloud generator](https://www.anychart.com/blog/2020/11/25/reddit-data-word-cloud-visualization/).
+:keyboard: My pet projects include:
+  - ⌚ [Time tracking desktop app](https://time-it.co).
+  - 📉 [COVID-19 regional dashboard](https://itsmais.github.io/arab-covid-19-stats/).
+  - 🗺 [US 2020 polls results map](https://itsmais.github.io/us-presidential-elections-map/).
+  - 💾 [Citation machine (en/ar)](https://arabic-citation-machine.vercel.app/).
+  - ☁ [Reddit word-cloud generator](https://www.anychart.com/blog/2020/11/25/reddit-data-word-cloud-visualization/).
+  - ⏲ [REM sleep time calculator](https://github.com/itsmais/sleep-calculator).
+  - 🧦 [Retro clothes picker according to local weather](https://github.com/itsmais/what-shall-i-wear).
 
-:camera: Hobbyist [photographer](https://500px.com/maishatem) by night.
+:camera: When I'm not on my computer, I try to keep a visual diary and later publish on [500px](https://500px.com/maishatem).
 
 👩🏼‍🔧 I’m always looking to collaborate on freelance or part-time projects.
 
