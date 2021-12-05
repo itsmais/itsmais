@@ -4,6 +4,7 @@
 
 :keyboard: My pet projects include:
   - ⌚ [Time tracking desktop app](https://time-it.co).
+  - 💬 [French to IPA converter](https://french-to-ipa.vercel.app/).
   - 📉 [COVID-19 regional dashboard](https://itsmais.github.io/arab-covid-19-stats/).
   - 🗺 [US 2020 polls results map](https://itsmais.github.io/us-presidential-elections-map/).
   - 💾 [Citation machine (en/ar)](https://arabic-citation-machine.vercel.app/).
