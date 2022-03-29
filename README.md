@@ -4,7 +4,7 @@
 
 :camera: When I'm not on my computer, I try to keep a visual diary and later publish on [500px](https://500px.com/maishatem).
 
-👩🏼‍🔧 I’m always looking to collaborate on freelance side projects.
+👩🏼‍🔧 I’m always looking to collaborate on side projects.
 
 📫 How to reach me: direct messages at [@mais_hatem](https://twitter.com/mais_hatem).
 
