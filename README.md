@@ -1,10 +1,8 @@
-### Hola, hello, こんにちは, 你好, مَرحَبًَا, salut, namaste, Привет! It's Mais! 👋
+### Hello, it's good to see you here 👋
 
 :woman_technologist: I'm a software developer, with main interest in front-end web technologies.
 
 :camera: When I'm not on my computer, I try to keep a visual diary and later publish on [500px](https://500px.com/maishatem).
-
-👩🏼‍🔧 I’m always looking to collaborate on side projects.
 
 📫 How to reach me: direct messages at [@mais_hatem](https://twitter.com/mais_hatem).
 
