@@ -4,8 +4,6 @@
 
 :camera: When I'm not on my computer, I try to keep a visual diary and later publish on [500px](https://500px.com/maishatem).
 
-📫 How to reach me: direct messages at [@mais_hatem](https://twitter.com/mais_hatem).
-
 <!--
 **itsmais/itsmais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 📍 Works remotely; currently in Beirut, Lebanon.
